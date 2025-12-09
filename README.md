@@ -40,14 +40,22 @@ Dependency Injection with Hilt for core dependencies and ViewModels
 
 Technologies Used
 
-Kotlin,
-Jetpack Compose,
-Material 3,
-Retrofit + OkHttp,
-Gson,
-Room Database,
-WorkManager,
-ZXing QR Scanner,
+Kotlin
+
+Jetpack Compose
+
+Material 3
+
+Retrofit + OkHttp
+
+Gson
+
+Room Database
+
+WorkManager
+
+ZXing QR Scanner
+
 Dagger Hilt
 
 Modular Android Architecture
