@@ -16,8 +16,11 @@ The codebase is organized into feature-based and core modules:
 Each module encapsulates a specific responsibility:
 
 core:network – Retrofit configuration, API interfaces, DTOs
+
 core:database – Room entities, DAO, database provider
+
 feature:tasks – domain model, repository, ViewModel, UI layer, worker, QR scanner
+
 app – application entry point and navigation host
 
 This structure ensures separation of concerns, scalability, and clean dependency flow.
