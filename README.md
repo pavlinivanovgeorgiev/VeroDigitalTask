@@ -25,6 +25,7 @@ app – application entry point and navigation host
 
 This structure ensures separation of concerns, scalability, and clean dependency flow.
 
+
 Key Functionality
 
 Authenticated API communication (login + task retrieval via Bearer token)
